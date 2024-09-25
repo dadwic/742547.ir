@@ -1,26 +1,34 @@
-'use client';
-import { Roboto } from 'next/font/google';
-import { createTheme } from '@mui/material/styles';
+"use client";
+import { Vazirmatn } from "next/font/google";
+import { createTheme } from "@mui/material/styles";
 
-const roboto = Roboto({
-  weight: ['300', '400', '500', '700'],
-  subsets: ['latin'],
-  display: 'swap',
+const vazirmatn = Vazirmatn({
+  weight: ["300", "400", "500", "700"],
+  subsets: ["arabic"],
+  display: "swap",
 });
 
 const theme = createTheme({
+  direction: "rtl",
   palette: {
-    mode: 'light',
+    mode: "light",
   },
   typography: {
-    fontFamily: roboto.style.fontFamily,
+    fontFamily: vazirmatn.style.fontFamily,
   },
   components: {
+    MuiCssBaseline: {
+      styleOverrides: {
+        body: {
+          background: "hsla(215, 15%, 97%, 0.5)",
+        },
+      },
+    },
     MuiAlert: {
       styleOverrides: {
         root: ({ ownerState }) => ({
-          ...(ownerState.severity === 'info' && {
-            backgroundColor: '#60a5fa',
+          ...(ownerState.severity === "info" && {
+            backgroundColor: "#60a5fa",
           }),
         }),
       },
