@@ -25,6 +25,7 @@ export default [
   "sbarro.ir",
   "pazarama.ir",
   "pologarage.ir",
+  "dardanel.ir",
   "ilovefish.ir",
   "khodroad.ir",
   "mukbang.ir",
