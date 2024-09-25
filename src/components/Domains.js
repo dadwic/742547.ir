@@ -10,7 +10,7 @@ import data from "./data";
 
 export default function Domains() {
   return (
-    <Box sx={{ flexGrow: 1, mt: 4 }}>
+    <Box sx={{ flexGrow: 1, mt: 4, direction: "ltr" }}>
       <Grid container spacing={2}>
         {data.sort().map((domain, key) => (
           <Grid size={{ xs: 6, md: 3 }} key={key}>
