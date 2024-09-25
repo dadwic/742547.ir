@@ -17,10 +17,15 @@ export default function Home() {
           alignItems: "center",
         }}
       >
-        <Typography variant="h2" component="h1" fontWeight={700}>
+        <Typography
+          variant="h2"
+          component="h1"
+          textAlign="center"
+          fontWeight={700}
+        >
           {headers().get("host")}
         </Typography>
-        <Typography variant="h4" fontWeight={600}>
+        <Typography variant="h5" textAlign="center" fontWeight={600}>
           این دامنه برای فروش می‌باشد.
         </Typography>
         <Domains />

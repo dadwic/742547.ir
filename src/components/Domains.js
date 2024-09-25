@@ -13,7 +13,7 @@ export default function Domains() {
     <Box sx={{ flexGrow: 1, mt: 4 }}>
       <Grid container spacing={2}>
         {data.sort().map((domain, key) => (
-          <Grid size={{ xs: 6, md: 3 }} key={key}>
+          <Grid size={{ xs: 12, sm: 6, md: 3 }} key={key}>
             <Card>
               <CardActionArea href={`https://${domain}`} target="_blank">
                 <CardMedia
