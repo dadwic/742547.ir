@@ -22,6 +22,11 @@ const theme = createTheme({
         body: {
           background: "hsla(215, 15%, 97%, 0.5)",
         },
+        a: {
+          color: "#ce0e2d",
+          cursor: "pointer",
+          textDecoration: "none",
+        },
       },
     },
     MuiAlert: {
