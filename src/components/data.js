@@ -18,7 +18,6 @@ export default [
   "bellamaison.ir",
   "deichmann.ir",
   "fashfed.ir",
-  "huqqabaz.ir",
   "inveon.ir",
   "tomanat.ir",
   "sneaksup.ir",
