@@ -16,6 +16,7 @@ export default [
   "upwoork.ir",
   "uspoloassn.ir",
   "bellamaison.ir",
+  "homesweethome.ir",
   "deichmann.ir",
   "fashfed.ir",
   "inveon.ir",
