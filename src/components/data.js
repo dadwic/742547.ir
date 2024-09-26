@@ -14,6 +14,8 @@ export default [
   "bobletea.ir",
   "babeltea.ir",
   "upwoork.ir",
+  "atasun.ir",
+  "jackjones.ir",
   "uspoloassn.ir",
   "bellamaison.ir",
   "homesweethome.ir",
