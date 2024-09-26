@@ -6,6 +6,7 @@ import Typography from "@mui/material/Typography";
 import Domains from "@/components/Domains";
 
 export default function Home() {
+  const host = headers().get("host");
   return (
     <Container maxWidth="lg">
       <Box
@@ -24,12 +25,12 @@ export default function Home() {
           textAlign="center"
           fontWeight={700}
         >
-          {headers().get("host")}
+          {host}
         </Typography>
         <Typography variant="h5" textAlign="center" fontWeight={600}>
           این دامنه برای فروش می‌باشد.
         </Typography>
-        <Domains />
+        <Domains host={host} />
       </Box>
     </Container>
   );
