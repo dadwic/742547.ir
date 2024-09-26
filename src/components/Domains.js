@@ -13,7 +13,7 @@ export default function Domains({ host }) {
   return (
     <Box sx={{ flexGrow: 1, mt: 4, direction: "ltr" }}>
       <Grid container spacing={2}>
-        {[host, data.sort().filter((item) => item !== host)].map(
+        {[host, ...data.filter((item) => item !== host).sort()].map(
           (domain, key) => (
             <Grid size={{ xs: 6, md: 3 }} key={key}>
               <Card>
