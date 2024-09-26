@@ -24,10 +24,10 @@ export default function Domains() {
                 <Divider />
                 <CardContent>
                   <Typography
+                    dir="ltr"
                     variant="h6"
                     component="div"
                     textAlign="center"
-                    sx={{ direction: "ltr" }}
                     fontWeight={700}
                   >
                     {domain}

@@ -18,6 +18,7 @@ export default function Home() {
         }}
       >
         <Typography
+          dir="ltr"
           variant="h2"
           component="h1"
           textAlign="center"
