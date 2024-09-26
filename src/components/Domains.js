@@ -1,6 +1,7 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid2";
+import Divider from "@mui/material/Divider";
 import Card from "@mui/material/Card";
 import Typography from "@mui/material/Typography";
 import CardMedia from "@mui/material/CardMedia";
@@ -20,6 +21,7 @@ export default function Domains() {
                   sx={{ width: "100%", height: { xs: 180, md: 280 } }}
                   image={`/images/${domain.split(".")[0]}.jpg`}
                 />
+                <Divider />
                 <CardContent>
                   <Typography
                     variant="h6"
