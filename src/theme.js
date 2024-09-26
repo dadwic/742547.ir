@@ -1,10 +1,17 @@
 "use client";
-import { Roboto } from "next/font/google";
+import { Roboto, Vazirmatn } from "next/font/google";
 import { createTheme } from "@mui/material/styles";
 
 const roboto = Roboto({
   weight: ["400", "700"],
   subsets: ["latin"],
+  display: "swap",
+});
+
+const vazirmatn = Vazirmatn({
+  weight: ["400", "700"],
+  subsets: ["arabic"],
+  variable: "--font-vazirmatn",
   display: "swap",
 });
 
@@ -14,7 +21,7 @@ const theme = createTheme({
     mode: "light",
   },
   typography: {
-    fontFamily: `var(--font-vazirmatn), ${roboto.style.fontFamily}`,
+    fontFamily: `${vazirmatn.style.fontFamily}, ${roboto.style.fontFamily}`,
   },
   components: {
     MuiCssBaseline: {
