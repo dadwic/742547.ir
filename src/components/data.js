@@ -17,6 +17,7 @@ export default [
   "atasun.ir",
   "jackjones.ir",
   "uspoloassn.ir",
+  "sneakscloud.ir",
   "bellamaison.ir",
   "homesweethome.ir",
   "deichmann.ir",
