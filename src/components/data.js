@@ -18,6 +18,7 @@ export default [
   "jackjones.ir",
   "uspoloassn.ir",
   "sneakscloud.ir",
+  "minycenter.ir",
   "bellamaison.ir",
   "homesweethome.ir",
   "deichmann.ir",
