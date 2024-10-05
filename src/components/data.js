@@ -14,6 +14,7 @@ export default [
   "bobletea.ir",
   "upwoork.ir",
   "atasun.ir",
+  "doyuyo.ir",
   "jackjones.ir",
   "uspoloassn.ir",
   "sneakscloud.ir",
