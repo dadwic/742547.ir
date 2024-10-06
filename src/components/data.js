@@ -20,6 +20,7 @@ export default [
   "sneakscloud.ir",
   "minycenter.ir",
   "bellamaison.ir",
+  "savetheduck.ir",
   "madparfumeur.ir",
   "homesweethome.ir",
   "deichmann.ir",
