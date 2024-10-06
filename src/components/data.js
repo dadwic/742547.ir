@@ -6,7 +6,6 @@ export default [
   "v11.ir",
   "ui6.ir",
   "4ord.ir",
-  "742547.ir",
   "united4.ir",
   "woodesk.ir",
   "wunder.ir",
