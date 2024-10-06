@@ -15,6 +15,7 @@ export default [
   "upwoork.ir",
   "atasun.ir",
   "doyuyo.ir",
+  "kumpir.ir",
   "jackjones.ir",
   "uspoloassn.ir",
   "mikelcoffee.ir",
