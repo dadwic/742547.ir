@@ -17,6 +17,7 @@ export default [
   "doyuyo.ir",
   "jackjones.ir",
   "uspoloassn.ir",
+  "mikelcoffee.ir",
   "sneakscloud.ir",
   "minycenter.ir",
   "bellamaison.ir",
