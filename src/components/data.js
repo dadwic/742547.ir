@@ -51,7 +51,6 @@ export default [
   "hanmadang.ir",
   "ketab-sefid.ir",
   "vilber.ir",
-  "nuxtjs.ir",
   "schoolcloud.ir",
   "recyclr.ir",
 ];
