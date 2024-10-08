@@ -7,6 +7,7 @@ import Domains from "@/components/Domains";
 
 export default function Home() {
   const host = headers().get("host");
+  const is74 = host === "742547.ir";
   return (
     <Container maxWidth="lg">
       <Box
@@ -27,14 +28,16 @@ export default function Home() {
         >
           {host}
         </Typography>
-        <Typography
-          variant="h5"
-          textAlign="center"
-          fontWeight={700}
-          gutterBottom
-        >
-          این دامنه برای فروش می‌باشد.
-        </Typography>
+        {!is74 && (
+          <Typography
+            variant="h5"
+            textAlign="center"
+            fontWeight={700}
+            gutterBottom
+          >
+            این دامنه برای فروش می‌باشد.
+          </Typography>
+        )}
         <Typography
           variant="h6"
           component="a"
