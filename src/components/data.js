@@ -28,6 +28,7 @@ export default [
   "madparfumeur.ir",
   "homesweethome.ir",
   "lesbenjamins.ir",
+  "mahmoodrice.ir",
   "deichmann.ir",
   "fashfed.ir",
   "inveon.ir",
