@@ -27,6 +27,7 @@ export default [
   "savetheduck.ir",
   "madparfumeur.ir",
   "homesweethome.ir",
+  "lesbenjamins.ir",
   "deichmann.ir",
   "fashfed.ir",
   "inveon.ir",
