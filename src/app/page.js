@@ -21,9 +21,7 @@ export default function Home() {
       >
         {is74 ? (
           <svg
-            height={32}
-            fill="currentColor"
-            color="rgba(0, 0, 0, 0.54)"
+            height={40}
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 154.21 23.01"
             style={{ marginBottom: 16 }}
