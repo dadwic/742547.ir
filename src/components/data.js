@@ -19,6 +19,7 @@ export default [
   "sportempt.ir",
   "vakkorama.ir",
   "jackjones.ir",
+  "defactofit.ir",
   "uspoloassn.ir",
   "mikelcoffee.ir",
   "sneakscloud.ir",
