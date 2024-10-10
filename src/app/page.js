@@ -28,16 +28,16 @@ export default function Home() {
         >
           {host}
         </Typography>
-        {!is74 && (
-          <Typography
-            variant="h5"
-            textAlign="center"
-            fontWeight={700}
-            gutterBottom
-          >
-            این دامنه برای فروش می‌باشد.
-          </Typography>
-        )}
+        <Typography
+          variant="h5"
+          textAlign="center"
+          fontWeight={700}
+          gutterBottom
+        >
+          {is74
+            ? "دامنه‌های زیر برای فروش می‌باشد."
+            : "این دامنه برای فروش می‌باشد."}
+        </Typography>
         <Typography
           variant="h6"
           component="a"
