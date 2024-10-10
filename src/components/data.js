@@ -31,6 +31,7 @@ export default [
   "lesbenjamins.ir",
   "mahmoodrice.ir",
   "deichmann.ir",
+  "andbrands.ir",
   "fashfed.ir",
   "inveon.ir",
   "tomanat.ir",
