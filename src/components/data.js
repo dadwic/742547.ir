@@ -50,7 +50,6 @@ export default [
   "flybe.ir",
   "mosyo.ir",
   "gorbeha.ir",
-  "realir.ir",
   "wilber.ir",
   "eqbali.ir",
   "mahdaneh.ir",
