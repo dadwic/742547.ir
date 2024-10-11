@@ -9,11 +9,12 @@ import CardContent from "@mui/material/CardContent";
 import CardActionArea from "@mui/material/CardActionArea";
 import data from "./data";
 
-export default function Domains({ host }) {
+export default function Domains({ is74, host }) {
+  const domain = is74 ? [] : [host];
   return (
     <Box sx={{ flexGrow: 1, mt: 4, direction: "ltr" }}>
       <Grid container spacing={2}>
-        {[host, ...data.filter((item) => item !== host).sort()].map(
+        {[...domain, ...data.filter((item) => item !== host).sort()].map(
           (domain, key) => (
             <Grid size={{ xs: 6, md: 3 }} key={key}>
               <Card>

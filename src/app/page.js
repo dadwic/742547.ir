@@ -65,7 +65,7 @@ export default function Home() {
         >
           تماس از طریق تلگرام با شماره <b>۰۹۲۰۰۷۴۲۵۴۷</b>
         </Typography>
-        <Domains host={host} />
+        <Domains is74={is74} host={host} />
       </Box>
     </Container>
   );
