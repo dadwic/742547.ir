@@ -52,7 +52,6 @@ export default [
   "sooraya.ir",
   "flybe.ir",
   "mosyo.ir",
-  "gorbeha.ir",
   "wilber.ir",
   "eqbali.ir",
   "mahdaneh.ir",
