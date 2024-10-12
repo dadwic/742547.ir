@@ -8,6 +8,7 @@ export default [
   "4ord.ir",
   "onvo.ir",
   "peaq.ir",
+  "preo.ir",
   "catit.ir",
   "united4.ir",
   "woodesk.ir",
