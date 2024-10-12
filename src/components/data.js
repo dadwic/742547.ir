@@ -16,6 +16,7 @@ export default [
   "atasun.ir",
   "doyuyo.ir",
   "kumpir.ir",
+  "idefix.ir",
   "sportempt.ir",
   "vakkorama.ir",
   "jackjones.ir",
