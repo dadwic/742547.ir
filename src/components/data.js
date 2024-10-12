@@ -7,6 +7,7 @@ export default [
   "ui6.ir",
   "4ord.ir",
   "onvo.ir",
+  "peaq.ir",
   "catit.ir",
   "united4.ir",
   "woodesk.ir",
