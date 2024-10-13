@@ -22,6 +22,7 @@ export default [
   "kumpir.ir",
   "idefix.ir",
   "sportime.ir",
+  "sporthink.ir",
   "sportempt.ir",
   "vakkorama.ir",
   "jackjones.ir",
