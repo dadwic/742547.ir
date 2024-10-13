@@ -9,6 +9,7 @@ export default [
   "onvo.ir",
   "preo.ir",
   "catit.ir",
+  "barcin.ir",
   "vitruta.ir",
   "united4.ir",
   "woodesk.ir",
