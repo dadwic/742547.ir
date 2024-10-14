@@ -21,6 +21,7 @@ export default [
   "doyuyo.ir",
   "kumpir.ir",
   "idefix.ir",
+  "rentgo.ir",
   "sportime.ir",
   "sporthink.ir",
   "sportempt.ir",
