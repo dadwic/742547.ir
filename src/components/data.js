@@ -34,6 +34,7 @@ export default [
   "bellamaison.ir",
   "savetheduck.ir",
   "madparfumeur.ir",
+  "vatancomputer.ir",
   "homesweethome.ir",
   "lesbenjamins.ir",
   "mahmoodrice.ir",
