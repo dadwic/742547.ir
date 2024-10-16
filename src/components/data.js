@@ -24,6 +24,7 @@ export default [
   "rentgo.ir",
   "sutore.ir",
   "benri.ir",
+  "badbear.ir",
   "sportime.ir",
   "sporthink.ir",
   "sportempt.ir",
