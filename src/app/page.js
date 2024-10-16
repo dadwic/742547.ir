@@ -63,7 +63,7 @@ export default function Home() {
           href="https://t.me/+989200742547"
           target="_blank"
         >
-          تماس از طریق تلگرام با شماره <b>۰۹۲۰۰۷۴۲۵۴۷</b>
+          ارتباط با ریالیر در تلگرام با شماره <b>۰۹۲۰۰۷۴۲۵۴۷</b>
         </Typography>
         <Domains is74={is74} host={host} />
       </Box>
