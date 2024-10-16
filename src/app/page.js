@@ -80,17 +80,17 @@ export default function Home() {
         <BottomNavigation showLabels>
           <BottomNavigationAction
             LinkComponent={Link}
-            label="قیمت لیر ترکیه"
-            target="_blank"
-            href="https://www.rialir.com/lir/"
-            icon={<LiraIcon />}
-          />
-          <BottomNavigationAction
-            LinkComponent={Link}
             label="خرید از ترکیه"
             target="_blank"
             href="https://www.rialir.com/"
             icon={<ShoppingIcon />}
+          />
+          <BottomNavigationAction
+            LinkComponent={Link}
+            label="قیمت لیر ترکیه"
+            target="_blank"
+            href="https://www.rialir.com/lir/"
+            icon={<LiraIcon />}
           />
           <BottomNavigationAction
             LinkComponent={Link}
