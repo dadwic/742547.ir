@@ -1,7 +1,7 @@
 import * as React from "react";
-import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid2";
 import Divider from "@mui/material/Divider";
+import Container from "@mui/material/Container";
 import Card from "@mui/material/Card";
 import Typography from "@mui/material/Typography";
 import CardMedia from "@mui/material/CardMedia";
@@ -12,7 +12,7 @@ import data from "./data";
 export default function Domains({ is74, host }) {
   const domain = is74 ? [] : [host];
   return (
-    <Box sx={{ flexGrow: 1, mt: 4, direction: "ltr" }}>
+    <Container maxWidth="lg" sx={{ mt: 4, direction: "ltr" }}>
       <Grid container spacing={2}>
         {[...domain, ...data.filter((item) => item !== host).sort()].map(
           (domain, key) => (
@@ -45,6 +45,6 @@ export default function Domains({ is74, host }) {
           )
         )}
       </Grid>
-    </Box>
+    </Container>
   );
 }

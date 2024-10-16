@@ -3,10 +3,9 @@ import { headers } from "next/headers";
 import Box from "@mui/material/Box";
 import Link from "@mui/material/Link";
 import Paper from "@mui/material/Paper";
+import Typography from "@mui/material/Typography";
 import BottomNavigation from "@mui/material/BottomNavigation";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
-import Container from "@mui/material/Container";
-import Typography from "@mui/material/Typography";
 import ShoppingIcon from "@mui/icons-material/ShoppingCart";
 import LiraIcon from "@mui/icons-material/CurrencyLira";
 import YouTubeIcon from "@mui/icons-material/YouTube";
@@ -16,7 +15,7 @@ export default function Home() {
   const host = headers().get("host");
   const is74 = host === "742547.ir";
   return (
-    <Container maxWidth="lg">
+    <Box sx={{ pb: 7 }}>
       <Box
         sx={{
           my: 4,
@@ -102,6 +101,6 @@ export default function Home() {
           />
         </BottomNavigation>
       </Paper>
-    </Container>
+    </Box>
   );
 }
