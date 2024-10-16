@@ -23,6 +23,7 @@ export default [
   "idefix.ir",
   "rentgo.ir",
   "sutore.ir",
+  "benri.ir",
   "sportime.ir",
   "sporthink.ir",
   "sportempt.ir",
