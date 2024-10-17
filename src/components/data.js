@@ -25,6 +25,7 @@ export default [
   "sutore.ir",
   "benri.ir",
   "mugler.ir",
+  "durumle.ir",
   "badbear.ir",
   "dreamies.ir",
   "sportime.ir",
