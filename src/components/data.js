@@ -8,6 +8,7 @@ export default [
   "4ord.ir",
   "onvo.ir",
   "preo.ir",
+  "pidem.ir",
   "catit.ir",
   "barcin.ir",
   "vitruta.ir",
