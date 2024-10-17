@@ -35,6 +35,7 @@ export default [
   "happymoons.ir",
   "defactofit.ir",
   "uspoloassn.ir",
+  "tangleteezer.ir",
   "mikelcoffee.ir",
   "sneakscloud.ir",
   "minycenter.ir",
