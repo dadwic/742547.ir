@@ -24,6 +24,7 @@ export default [
   "rentgo.ir",
   "sutore.ir",
   "benri.ir",
+  "mugler.ir",
   "badbear.ir",
   "dreamies.ir",
   "sportime.ir",
