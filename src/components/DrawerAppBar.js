@@ -39,9 +39,9 @@ function DrawerAppBar() {
       <AppBar component="nav" elevation={2} color="default">
         <Toolbar>
           <IconButton
+            edge="start"
             color="inherit"
             aria-label="open drawer"
-            edge="start"
             onClick={handleDrawerToggle}
             sx={{ ml: 2, display: { sm: "none" } }}
           >
@@ -66,7 +66,7 @@ function DrawerAppBar() {
       <nav>
         <Drawer
           dir="rtl"
-          anchor="right"
+          anchor="left"
           variant="temporary"
           open={mobileOpen}
           onClose={handleDrawerToggle}
