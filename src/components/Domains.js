@@ -22,7 +22,7 @@ export default function Domains({ is74, host }) {
                 <CardActionArea href={`https://${domain}`} target="_blank">
                   <CardMedia
                     sx={{
-                      width: "100%",
+                      position: "relative",
                       filter: "brightness(0.95)",
                       height: { xs: 180, md: 280 },
                     }}
