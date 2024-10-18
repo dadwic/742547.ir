@@ -9,16 +9,18 @@ import BottomNavigationAction from "@mui/material/BottomNavigationAction";
 import ShoppingIcon from "@mui/icons-material/ShoppingCart";
 import LiraIcon from "@mui/icons-material/CurrencyLira";
 import YouTubeIcon from "@mui/icons-material/YouTube";
+import DrawerAppBar from "@/components/DrawerAppBar";
 import Domains from "@/components/Domains";
 
 export default function Home() {
   const host = headers().get("host");
   const is74 = host === "742547.ir";
   return (
-    <Box sx={{ pb: 7 }}>
+    <Box component="main">
+      <DrawerAppBar />
       <Box
         sx={{
-          my: 4,
+          py: 12,
           display: "flex",
           flexDirection: "column",
           justifyContent: "center",
