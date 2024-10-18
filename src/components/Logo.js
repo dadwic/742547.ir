@@ -1,37 +1,27 @@
 "use client";
 
-import React, { useState, useEffect, useRef } from "react";
-import Box from "@mui/material/Box";
+import React, { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 
 const Logo = () => {
   const logoRef = useRef(null);
-  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const logo = logoRef.current;
     const paths = logo.querySelectorAll(".st0");
-    const timer = setTimeout(() => {
-      setLoading(false);
-    }, 1000);
 
     gsap.set(paths, { drawSVG: "0%", opacity: 0 });
     gsap.to(paths, { drawSVG: "100%", opacity: 1, duration: 1, stagger: 0.1 });
-
-    return () => clearTimeout(timer);
   }, []);
 
   return (
-    <Box
-      sx={{
-        position: "fixed",
-        backgroundColor: "white",
-        display: loading ? "flex" : "none",
+    <div
+      style={{
+        display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        height: "100%",
-        width: "100%",
-        zIndex: (t) => t.zIndex.appBar + 1,
+        backgroundColor: "white",
+        minHeight: "100vh",
       }}
     >
       <svg
@@ -82,7 +72,7 @@ const Logo = () => {
           />
         </g>
       </svg>
-    </Box>
+    </div>
   );
 };
 
