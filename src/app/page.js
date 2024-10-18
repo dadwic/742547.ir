@@ -1,4 +1,6 @@
-import * as React from "react";
+"use client";
+
+import React from "react";
 import { headers } from "next/headers";
 import Box from "@mui/material/Box";
 import Link from "@mui/material/Link";
@@ -11,10 +13,36 @@ import LiraIcon from "@mui/icons-material/CurrencyLira";
 import YouTubeIcon from "@mui/icons-material/YouTube";
 import DrawerAppBar from "@/components/DrawerAppBar";
 import Domains from "@/components/Domains";
+import Logo from "@/components/Logo";
 
 export default function Home() {
   const host = headers().get("host");
   const is74 = host === "742547.ir";
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLoading(false);
+    }, 1000);
+
+    return () => clearTimeout(timer);
+  }, []);
+
+  if (loading) {
+    return (
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          minHeight: "100vh",
+        }}
+      >
+        <Logo />
+      </div>
+    );
+  }
+
   return (
     <Box component="main">
       <DrawerAppBar />
