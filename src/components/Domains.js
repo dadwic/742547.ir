@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import Image from "next/image";
 import Grid from "@mui/material/Grid2";
 import Divider from "@mui/material/Divider";

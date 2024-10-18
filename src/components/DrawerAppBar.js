@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import Box from "@mui/material/Box";
 import AppBar from "@mui/material/AppBar";
 import Button from "@mui/material/Button";
 import Divider from "@mui/material/Divider";
