@@ -11,6 +11,7 @@ export default [
   "pidem.ir",
   "catit.ir",
   "barcin.ir",
+  "avansas.ir",
   "tadelle.ir",
   "vitruta.ir",
   "united4.ir",
