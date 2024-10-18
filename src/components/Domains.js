@@ -1,4 +1,5 @@
 import * as React from "react";
+import Image from "next/image";
 import Grid from "@mui/material/Grid2";
 import Divider from "@mui/material/Divider";
 import Container from "@mui/material/Container";
@@ -25,8 +26,14 @@ export default function Domains({ is74, host }) {
                       filter: "brightness(0.95)",
                       height: { xs: 180, md: 280 },
                     }}
-                    image={`/images/${domain.split(".")[0]}.jpg`}
-                  />
+                  >
+                    <Image
+                      alt={domain}
+                      src={`/images/${domain.split(".")[0]}.jpg`}
+                      layout="fill"
+                      objectFit="cover"
+                    />
+                  </CardMedia>
                   <Divider />
                   <CardContent>
                     <Typography
