@@ -42,6 +42,7 @@ export default [
   "uspoloassn.ir",
   "tangleteezer.ir",
   "ferrerorocher.ir",
+  "kahvedunyasi.ir",
   "mikelcoffee.ir",
   "sneakscloud.ir",
   "minycenter.ir",
