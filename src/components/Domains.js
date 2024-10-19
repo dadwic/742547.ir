@@ -13,8 +13,8 @@ import data from "./data";
 export default function Domains({ is74, host }) {
   const domain = is74 ? [] : [host];
   return (
-    <Container maxWidth="lg" sx={{ mt: 4, direction: "ltr" }}>
-      <Grid container spacing={2}>
+    <Container maxWidth="lg" sx={{ mt: 4 }}>
+      <Grid container spacing={2} flexDirection="row-reverse">
         {[...domain, ...data.filter((item) => item !== host).sort()].map(
           (domain, key) => (
             <Grid size={{ xs: 6, md: 3 }} key={key}>
