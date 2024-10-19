@@ -31,7 +31,7 @@ const Logo = () => {
         backgroundColor: "white",
         width: "100%",
         height: "100%",
-        zIndex: (t) => t.zIndex.drawer + 1e6,
+        zIndex: (t) => t.zIndex.appBar + 1,
       }}
     >
       <svg
