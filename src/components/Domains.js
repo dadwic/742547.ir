@@ -31,6 +31,7 @@ export default function Domains({ is74, host }) {
                       alt={domain}
                       src={`/images/${domain.split(".")[0]}.jpg`}
                       layout="fill"
+                      loading="lazy"
                       objectFit="cover"
                     />
                   </CardMedia>
