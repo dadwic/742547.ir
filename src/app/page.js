@@ -11,12 +11,14 @@ import LiraIcon from "@mui/icons-material/CurrencyLira";
 import YouTubeIcon from "@mui/icons-material/YouTube";
 import DrawerAppBar from "@/components/DrawerAppBar";
 import Domains from "@/components/Domains";
+import Logo from "@/components/Logo";
 
 export default function Home() {
   const host = headers().get("host");
   const is74 = host === "742547.ir";
   return (
     <Box component="main">
+      <Logo />
       <DrawerAppBar />
       <Box
         sx={{
