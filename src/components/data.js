@@ -10,6 +10,7 @@ export default [
   "preo.ir",
   "pidem.ir",
   "catit.ir",
+  "calve.ir",
   "barcin.ir",
   "avansas.ir",
   "tadelle.ir",
