@@ -19,6 +19,7 @@ export default [
   "woodesk.ir",
   "wunder.ir",
   "wilsoon.ir",
+  "deepfresh.ir",
   "bobletea.ir",
   "upwoork.ir",
   "atasun.ir",
