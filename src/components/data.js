@@ -30,6 +30,7 @@ export default [
   "mugler.ir",
   "durumle.ir",
   "badbear.ir",
+  "indomie.ir",
   "karlkani.ir",
   "dreamies.ir",
   "sportime.ir",
