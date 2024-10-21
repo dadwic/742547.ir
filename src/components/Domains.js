@@ -12,10 +12,17 @@ import CardContent from "@mui/material/CardContent";
 import CardActionArea from "@mui/material/CardActionArea";
 import data from "./data";
 
+const brand = "742547.ir";
+const isDev = process.env.NODE_ENV === "development";
+
 export default function Domains() {
-  const host = headers().get("host");
-  const is74 = host === "742547.ir";
-  const current = data.find(({ domain }) => domain === host);
+  const host = isDev ? brand : headers().get("host");
+  const current = data.find((v) => v.domain === host);
+  const is74 = host === brand;
+  if (!is74) data.push(current);
+  const domains = data
+    .filter((item) => item.domain !== host)
+    .sort((a, b) => a.domain.localeCompare(b.domain));
   return (
     <Container maxWidth="lg" sx={{ py: 12 }}>
       <Grid container spacing={2} flexDirection="row-reverse">
@@ -76,12 +83,7 @@ export default function Domains() {
             </Typography>
           </Box>
         </Grid>
-        {[
-          ...current,
-          ...data
-            .filter((item) => item.domain !== host)
-            .sort((a, b) => a.domain.localeCompare(b.domain)),
-        ].map(({ domain }, key) => (
+        {domains.map(({ domain }, key) => (
           <Grid size={{ xs: 6, md: 3 }} key={key}>
             <Card>
               <CardActionArea href={`https://${domain}`} target="_blank">
