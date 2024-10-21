@@ -19,10 +19,10 @@ export default function Domains() {
   const host = isDev ? brand : headers().get("host");
   const current = data.find((v) => v.domain === host);
   const is74 = host === brand;
-  if (!is74) data.push(current);
   const domains = data
     .filter((item) => item.domain !== host)
     .sort((a, b) => a.domain.localeCompare(b.domain));
+  if (!is74) domains.unshift(current);
   return (
     <Container maxWidth="lg" sx={{ py: 12 }}>
       <Grid container spacing={2} flexDirection="row-reverse">
