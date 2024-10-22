@@ -62,15 +62,15 @@ export default function Domains() {
               </Typography>
             )}
             <Typography
-              variant="h5"
+              variant="h4"
               component="h1"
               textAlign="center"
               fontWeight={700}
               gutterBottom
             >
               {current?.name
-                ? `خرید از ${current.name} ترکیه`
-                : "ریالیر | خرید مستقیم از ترکیه"}
+                ? `خرید مستقیم از ${current.name} ترکیه`
+                : "این دامنه برای فروش می‌باشد."}
             </Typography>
             <Typography
               variant="h6"
