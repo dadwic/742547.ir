@@ -70,7 +70,7 @@ export default [
   { domain: "sporthink.ir" },
   { domain: "sportime.ir" },
   { domain: "sutore.ir" },
-  { domain: "tadelle.ir", name: "شکلات تادله" },
+  { domain: "tadelle.ir", name: "تادله" },
   { domain: "tangleteezer.ir", name: "تنگل تیزر" },
   { domain: "tomanat.ir" },
   { domain: "ui6.ir" },
