@@ -10,11 +10,11 @@ export default function RootLayout(props) {
   return (
     <html lang="fa" dir="rtl">
       <body>
+        <Logo />
         <AppRouterCacheProvider options={{ enableCssLayer: true }}>
           <Rtl>
             <ThemeProvider theme={theme}>
               <CssBaseline />
-              <Logo />
               {props.children}
             </ThemeProvider>
           </Rtl>

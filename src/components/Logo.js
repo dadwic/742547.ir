@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useEffect, useState, useRef } from "react";
-import Box from "@mui/material/Box";
 import { gsap } from "gsap";
 
 const Logo = () => {
@@ -22,8 +21,8 @@ const Logo = () => {
   }, []);
 
   return (
-    <Box
-      sx={{
+    <div
+      style={{
         position: "fixed",
         display: loading ? "flex" : "none",
         justifyContent: "center",
@@ -31,7 +30,7 @@ const Logo = () => {
         backgroundColor: "white",
         width: "100%",
         height: "100%",
-        zIndex: (t) => t.zIndex.appBar + 1,
+        zIndex: 1550,
       }}
     >
       <svg
@@ -82,7 +81,7 @@ const Logo = () => {
           />
         </g>
       </svg>
-    </Box>
+    </div>
   );
 };
 
