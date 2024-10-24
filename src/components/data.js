@@ -53,6 +53,7 @@ export default [
   { domain: "muix.ir" },
   { domain: "mukbang.ir" },
   { domain: "onvo.ir" },
+  { domain: "ortopedia.ir", name: "ارتوپدیا" },
   { domain: "pazarama.ir" },
   { domain: "pidem.ir" },
   { domain: "pologarage.ir", name: "پولو گاراژ" },
