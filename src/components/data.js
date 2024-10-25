@@ -55,6 +55,7 @@ export default [
   { domain: "mukbang.ir" },
   { domain: "manebi.ir", name: "Manebí" },
   { domain: "onvo.ir" },
+  { domain: "off-white.ir", name: "Off-White" },
   { domain: "ortopedia.ir", name: "ارتوپدیا" },
   { domain: "pazarama.ir" },
   { domain: "pidem.ir" },
