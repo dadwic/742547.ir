@@ -78,6 +78,7 @@ export default [
   { domain: "tadelle.ir", name: "تادله" },
   { domain: "tangleteezer.ir", name: "تنگل تیزر" },
   { domain: "thehundreds.ir", name: "The Hundreds" },
+  { domain: "trendyol-milla.ir", name: "ترندیول میلا" },
   { domain: "tomanat.ir" },
   { domain: "ui6.ir" },
   { domain: "united4.ir", name: "یونایتد4" },
