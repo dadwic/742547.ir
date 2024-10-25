@@ -42,6 +42,7 @@ export default [
   { domain: "ketab-sefid.ir" },
   { domain: "khodroad.ir" },
   { domain: "kumpir.ir" },
+  { domain: "lescon.ir", name: "لسکون" },
   { domain: "lesbenjamins.ir", name: "لس بنجامین" },
   { domain: "madparfumeur.ir" },
   { domain: "mahdaneh.ir" },
