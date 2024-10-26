@@ -90,7 +90,8 @@ export default [
   { domain: "vilber.ir" },
   { domain: "vitruta.ir" },
   { domain: "wilber.ir" },
-  { domain: "wilsoon.ir", name: "Wilson" },
+  { domain: "wilsoon.ir", name: "ویلسون" },
   { domain: "woodesk.ir", name: "Woodesk" },
   { domain: "wunder.ir", name: "WUNDER" },
+  { domain: "xddesign.ir", name: "ایکس دی دیزاین" },
 ];
