@@ -23,6 +23,7 @@ export default [
   { domain: "dreamies.ir", name: "دریمیز" },
   { domain: "durumle.ir", name: "دورومله" },
   { domain: "ea7.ir", name: "امپریو آرمانی" },
+  { domain: "e-bebek.ir", name: "ای ببک" },
   { domain: "eqbali.ir" },
   { domain: "fashfed.ir", name: "فشفد" },
   { domain: "ferrerorocher.ir", name: "فررو روچر" },
