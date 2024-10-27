@@ -15,6 +15,7 @@ export default [
   { domain: "calve.ir", name: "Calve" },
   { domain: "carboon.ir" },
   { domain: "catit.ir", name: "کتیت" },
+  { domain: "dimes.ir", name: "دیمس" },
   { domain: "dardanel.ir", name: "دردانل" },
   { domain: "deepfresh.ir", name: "دیپ فرش" },
   { domain: "defactofit.ir", name: "دفکتو فیت" },
