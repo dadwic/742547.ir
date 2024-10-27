@@ -1,4 +1,5 @@
 import React from "react";
+import Head from "next/head";
 import Image from "next/image";
 import { headers } from "next/headers";
 import Box from "@mui/material/Box";
@@ -21,8 +22,9 @@ export default function Domains() {
   const is74 = host === brand;
   const domains = data
     .filter((item) => item.domain !== host)
-    .sort((a, b) => a.domain.localeCompare(b.domain));
+    .sort((a, b) => ("name" in b) - ("name" in a));
   if (!is74) domains.unshift(current);
+
   return (
     <Container maxWidth="lg" sx={{ py: 12 }}>
       <Grid container spacing={2} flexDirection="row-reverse">
@@ -89,8 +91,16 @@ export default function Domains() {
             </Typography>
           </Box>
         </Grid>
-        {domains.map(({ domain }, key) => (
+        {domains.map(({ domain, name }, key) => (
           <Grid size={{ xs: 6, md: 3 }} key={key}>
+            {name && (
+              <Head>
+                <meta
+                  name="description"
+                  content={`ریالیر | خرید مستقیم از ${name} ترکیه`}
+                />
+              </Head>
+            )}
             <Card>
               <CardActionArea href={`https://${domain}`} target="_blank">
                 <CardMedia
