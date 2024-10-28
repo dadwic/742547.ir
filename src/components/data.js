@@ -32,6 +32,7 @@ export default [
   { domain: "gardenmix.ir", name: "گاردن میکس" },
   { domain: "harras.ir", name: "هراس" },
   { domain: "hanmadang.ir" },
+  { domain: "herschel.ir", name: "هرشل ساپلای" },
   { domain: "happymoons.ir" },
   { domain: "houseofsuperstep.ir", name: "هوس آف سوپر استپ" },
   { domain: "hobix.ir", name: "هابیکس" },
