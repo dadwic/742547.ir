@@ -48,6 +48,7 @@ export default [
   { domain: "khodroad.ir" },
   { domain: "kumpir.ir", name: "کمپیر" },
   { domain: "lescon.ir", name: "لسکون" },
+  { domain: "lc-waikiki.ir", name: "ال‌سی وایکیکی" },
   { domain: "lesbenjamins.ir", name: "لس بنجامین" },
   { domain: "madparfumeur.ir", name: "مد پرفیوم" },
   { domain: "mahdaneh.ir" },
