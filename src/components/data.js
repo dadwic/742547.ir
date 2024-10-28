@@ -77,6 +77,7 @@ export default [
   { domain: "sneakscloud.ir", name: "اسنیکس کلاد" },
   { domain: "sneaksup.ir", name: "اسنیکس آپ" },
   { domain: "sooraya.ir" },
+  { domain: "solesisters.ir", name: "Sole Sisters" },
   { domain: "sportempt.ir", name: "اسپورتمپت" },
   { domain: "sporthink.ir", name: "اسپورتینک" },
   { domain: "sportime.ir", name: "اسپورتایم" },
