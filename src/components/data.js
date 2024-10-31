@@ -55,6 +55,7 @@ export default [
   { domain: "madparfumeur.ir", name: "مد پرفیوم" },
   { domain: "mahdaneh.ir" },
   { domain: "mahdoneh.ir" },
+  { domain: "markpark.ir", name: "مارکا پارک" },
   { domain: "macrocenter.ir", name: "ماکرو سنتر" },
   { domain: "mahmoodrice.ir", name: "برنج محمود" },
   { domain: "mikelcoffee.ir", name: "مایکل کافی" },
