@@ -48,6 +48,7 @@ export default [
   { domain: "karlkani.ir", name: "کارل کانی" },
   { domain: "ketab-sefid.ir" },
   { domain: "khodroad.ir" },
+  { domain: "kanken.ir", name: "کنکن" },
   { domain: "knitss.ir", name: "Knitss" },
   { domain: "kumpir.ir", name: "کمپیر" },
   { domain: "lescon.ir", name: "لسکون" },
