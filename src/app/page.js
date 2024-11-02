@@ -54,6 +54,7 @@ export default function Home() {
             target="_blank"
             href="https://www.rialir.com/"
             icon={<ShoppingIcon />}
+            sx={{ padding: 0 }}
           />
           <BottomNavigationAction
             LinkComponent={Link}
@@ -61,6 +62,7 @@ export default function Home() {
             target="_blank"
             href="https://www.rialir.com/lir/"
             icon={<LiraIcon />}
+            sx={{ padding: 0 }}
           />
           <BottomNavigationAction
             LinkComponent={Link}
@@ -68,6 +70,7 @@ export default function Home() {
             target="_blank"
             href="https://www.rialir.com/youtube-earnings/"
             icon={<YouTubeIcon />}
+            sx={{ padding: 0 }}
           />
         </BottomNavigation>
       </Paper>
