@@ -19,7 +19,7 @@ const isDev = process.env.NODE_ENV === "development";
 export default function Domains() {
   const host = isDev ? brand : headers().get("host");
   const current = data.find((v) => v.domain === host);
-  const is74 = host === brand;
+  const is74 = host === brand || !current;
   const domains = data
     .filter((item) => item.domain !== host)
     .sort((a, b) => ("name" in b) - ("name" in a));
