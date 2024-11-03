@@ -52,7 +52,6 @@ export default [
   { domain: "inveon.ir" },
   { domain: "jackjones.ir", name: "جک اند جونز", en: "Jack & Jones" },
   { domain: "kahvedunyasi.ir", name: "کاهوه دنیاسی", en: "Kahve Dünyası" },
-  { domain: "koska.ir", name: "کوسکا", en: "Koska" },
   { domain: "karlkani.ir", name: "کارل کانی", en: "Karl Kani" },
   { domain: "ketab-sefid.ir" },
   { domain: "khodroad.ir" },
