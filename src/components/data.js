@@ -106,6 +106,7 @@ export default [
   { domain: "tangleteezer.ir", name: "تنگل تیزر", en: "Tangle Teezer" },
   { domain: "thehundreds.ir", name: "دِ هاندردز", en: "The Hundreds" },
   { domain: "trendyol-milla.ir", name: "ترندیول میلا", en: "Trendyolmilla" },
+  { domain: "thepurest.ir", name: "دِ پیورست", en: "The Purest" },
   { domain: "tomanat.ir" },
   { domain: "ui6.ir" },
   { domain: "united4.ir", name: "یونایتد فور", en: "United4" },
