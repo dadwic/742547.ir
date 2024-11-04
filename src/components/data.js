@@ -90,6 +90,11 @@ export default [
   { domain: "savetheduck.ir", name: "سیو دِ داک", en: "Save The Duck" },
   { domain: "sbarro.ir", name: "اسبارو", en: "Sbarro" },
   { domain: "solero.ir", name: "سولرو", en: "Solero" },
+  {
+    domain: "sephoracollection.ir",
+    name: "سفورا کالکشن",
+    en: "Sephora Collection",
+  },
   { domain: "schoolcloud.ir" },
   { domain: "sneakscloud.ir", name: "اسنیکس کلاد", en: "Sneaks Cloud" },
   { domain: "sneaksup.ir", name: "اسنیکس آپ", en: "Sneaks Up" },
