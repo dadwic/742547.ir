@@ -31,7 +31,7 @@ export default [
   { domain: "evidea.ir", name: "اویدیا", en: "Evidea" },
   { domain: "eqbali.ir" },
   { domain: "fitmoda.ir", name: "فیت مدا", en: "Fitmoda" },
-  { domain: "fashfed.ir", name: "فش فد", en: "FashFed" },
+  { domain: "fashfed.ir", name: "فشفد", en: "FashFed" },
   { domain: "ferrerorocher.ir", name: "فررو روچر", en: "Ferrero Rocher" },
   { domain: "flybe.ir" },
   { domain: "gardenmix.ir", name: "گاردن میکس", en: "Garden Mix" },
