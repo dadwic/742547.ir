@@ -18,6 +18,7 @@ export default [
   { domain: "carboon.ir" },
   { domain: "catit.ir", name: "کتیت", en: "Catit" },
   { domain: "dimes.ir", name: "دیمس", en: "Dimes" },
+  { domain: "drunkelephant.ir", name: "درانک الفنت", en: "Drunk Elephant" },
   { domain: "dailyperfection.ir", name: "دیلی پرفکشن", en: "Daily Perfection" },
   { domain: "doremusic.ir", name: "دو رِ موزیک", en: "doremusic" },
   { domain: "dardanel.ir", name: "دردانل", en: "Dardanel" },
