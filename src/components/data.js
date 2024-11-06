@@ -5,6 +5,7 @@ export default [
   { domain: "activ8.ir" },
   { domain: "axess.ir" },
   { domain: "andbrands.ir" },
+  { domain: "asperox.ir", name: "آسپروکس", en: "Asperox" },
   { domain: "algida.ir", name: "الگیدا", en: "Algida" },
   { domain: "acenayman.ir", name: "Ace Nayman" },
   { domain: "atasun.ir", name: "آتاسان اپتیک", en: "Atasun Optik" },
