@@ -52,6 +52,7 @@ export default [
   { domain: "ilovefish.ir" },
   { domain: "inter-sport.ir", name: "اینتر اسپورت", en: "Intersport" },
   { domain: "indomie.ir", name: "ایندومی", en: "Indomie" },
+  { domain: "isbir.ir", name: "ایش بیر", en: "İşbir" },
   { domain: "inveon.ir" },
   {
     domain: "jackjones.ir",
@@ -63,6 +64,7 @@ export default [
   { domain: "karlkani.ir", name: "کارل کانی", en: "Karl Kani" },
   { domain: "ketab-sefid.ir" },
   { domain: "khodroad.ir" },
+  { domain: "koenic.ir", name: "کونیک", en: "KOENIC" },
   { domain: "kanken.ir", name: "کنکن", en: "Kanken" },
   { domain: "knitss.ir", name: "نیتس", en: "Knitss" },
   { domain: "kumpir.ir", name: "کمپیر", en: "Kumpir" },
