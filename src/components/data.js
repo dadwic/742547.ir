@@ -118,6 +118,7 @@ export default [
   { domain: "sutas.ir", name: "سوتاش", en: "Sütaş" },
   { domain: "sutore.ir", name: "سوتور", en: "sutore" },
   { domain: "super-step.ir", name: "سوپر استپ", en: "SuperStep" },
+  { domain: "super-kids.ir", name: "سوپر کیدز", en: "SuperKids" },
   { domain: "sneakerbaker.ir", name: "اسنیکر بیکر", en: "Sneaker Baker" },
   { domain: "saat-saat.ir", name: "ساعت و ساعت", en: "Saat&Saat" },
   { domain: "tadelle.ir", name: "تادله", en: "Tadelle" },
