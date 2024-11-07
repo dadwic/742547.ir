@@ -147,5 +147,6 @@ export default [
   { domain: "wilsoon.ir", name: "ویلسون", name: "Wilson" },
   { domain: "woodesk.ir", name: "وودسک", en: "Woodesk" },
   { domain: "wunder.ir", name: "واندر", en: "WUNDER" },
+  { domain: "zsazsazsu.ir", name: "Zsa Zsa Zsu" },
   { domain: "xddesign.ir", name: "ایکس دی دیزاین", en: "XD Design" },
 ];
