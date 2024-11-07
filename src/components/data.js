@@ -17,6 +17,7 @@ export default [
   { domain: "benri.ir", name: "بنری", en: "Benri" },
   { domain: "bobletea.ir", name: "بابل تی", en: "Boble Bubble Tea" },
   { domain: "calve.ir", name: "کالو", en: "Calve" },
+  { domain: "cornetto.ir", name: "کورنتو", en: "Cornetto" },
   { domain: "carboon.ir" },
   { domain: "catit.ir", name: "کتیت", en: "Catit" },
   { domain: "dimes.ir", name: "دیمس", en: "Dimes" },
