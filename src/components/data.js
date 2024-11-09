@@ -55,6 +55,7 @@ export default [
     en: "House of Superstep",
   },
   { domain: "hobix.ir", name: "هابیکس", en: "Hobix" },
+  { domain: "hufworldwide.ir", name: "هاف ورلد واید", en: "HUF Worldwide" },
   { domain: "homesweethome.ir", name: "هوم سوییت هوم", en: "Home Sweet Home" },
   { domain: "idefix.ir", name: "آیدفیکس", en: "idefix" },
   { domain: "ilovefish.ir" },
