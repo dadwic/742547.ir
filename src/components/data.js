@@ -97,6 +97,7 @@ export default [
   { domain: "mugler.ir", name: "موگلر", en: "Mugler" },
   { domain: "muix.ir" },
   { domain: "mukbang.ir" },
+  { domain: "marketstudios.ir", name: "مارکت استودیوز", en: "Market Studios" },
   { domain: "manebi.ir", name: "مانبی", en: "Manebí" },
   { domain: "nilky.ir", name: "نیلکی", en: "Nilky" },
   { domain: "naturessupreme.ir", name: "نیچرز سوپریم", en: "Nature's Supreme" },
