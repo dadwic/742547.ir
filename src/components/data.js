@@ -13,6 +13,7 @@ export default [
   { domain: "avansas.ir", name: "آوانساس", en: "Avansas" },
   { domain: "badbear.ir", name: "بد بیر", en: "Bad Bear" },
   { domain: "barcin.ir", name: "بارچین", en: "Barçın" },
+  { domain: "beaulis.ir", name: "بیولیس", en: "Beaulis" },
   { domain: "bellamaison.ir", name: "بلا میسون", en: "Bella Maison" },
   { domain: "benri.ir", name: "بنری", en: "Benri" },
   { domain: "bobletea.ir", name: "بابل تی", en: "Boble Bubble Tea" },
