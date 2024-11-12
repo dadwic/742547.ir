@@ -41,6 +41,7 @@ export default [
   { domain: "e-bebek.ir", name: "ای ببک", en: "ebebek" },
   { domain: "evidea.ir", name: "اویدیا", en: "Evidea" },
   { domain: "eqbali.ir" },
+  { domain: "furminator.ir", name: "فورمیناتور", en: "FURminator" },
   { domain: "fitmoda.ir", name: "فیت مدا", en: "Fitmoda" },
   { domain: "fashfed.ir", name: "فشفد", en: "FashFed" },
   { domain: "ferrerorocher.ir", name: "فررو روچر", en: "Ferrero Rocher" },
