@@ -119,7 +119,7 @@ export default function Domains() {
                   />
                 </CardMedia>
                 <Divider />
-                <CardContent>
+                <CardContent sx={{ px: 0 }}>
                   <Typography
                     dir="ltr"
                     variant="h6"
