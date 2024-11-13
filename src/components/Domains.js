@@ -71,7 +71,7 @@ export default function Domains() {
               gutterBottom
             >
               {is74 ? (
-                "دامنه‌ها متعلق به مجموعه ریالیر می‌باشد."
+                "دامنه‌ها متعلق به ریالیر می‌باشد."
               ) : (
                 <>
                   {current?.name
