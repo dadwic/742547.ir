@@ -106,6 +106,7 @@ export default [
   { domain: "nilky.ir", name: "نیلکی", en: "Nilky" },
   { domain: "naturessupreme.ir", name: "نیچرز سوپریم", en: "Nature's Supreme" },
   { domain: "onvo.ir", name: "آنوا", en: "Onvo" },
+  { domain: "okkia.ir", name: "اوکیا", en: "Okkia" },
   { domain: "off-white.ir", name: "آف وایت", en: "Off-White" },
   { domain: "ortopedia.ir", name: "ارتوپدیا", en: "Ortopedia" },
   { domain: "pazarama.ir", name: "پازاراما", en: "Pazarama" },
