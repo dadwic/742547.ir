@@ -104,6 +104,7 @@ export default [
   { domain: "marketstudios.ir", name: "مارکت استودیوز", en: "Market Studios" },
   { domain: "manebi.ir", name: "مانبی", en: "Manebí" },
   { domain: "nilky.ir", name: "نیلکی", en: "Nilky" },
+  { domain: "nasaqu.ir", name: "ناساکو", en: "NASAQU" },
   { domain: "naturessupreme.ir", name: "نیچرز سوپریم", en: "Nature's Supreme" },
   { domain: "onvo.ir", name: "آنوا", en: "Onvo" },
   { domain: "okkia.ir", name: "اوکیا", en: "Okkia" },
