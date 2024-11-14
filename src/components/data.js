@@ -57,6 +57,12 @@ export default [
     en: "House of Superstep",
   },
   { domain: "hobix.ir", name: "هابیکس", en: "Hobix" },
+  {
+    domain: "houseofsilk.ir",
+    name: "هوس آف سیلک",
+    en: "House of Silk",
+    sub: ["hofsilk.ir"],
+  },
   { domain: "hufworldwide.ir", name: "هاف ورلد واید", en: "HUF Worldwide" },
   { domain: "homesweethome.ir", name: "هوم سوییت هوم", en: "Home Sweet Home" },
   { domain: "idefix.ir", name: "آیدفیکس", en: "idefix" },
