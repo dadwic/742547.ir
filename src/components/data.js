@@ -115,6 +115,7 @@ export default [
   { domain: "q11.ir" },
   { domain: "recyclr.ir" },
   { domain: "rentgo.ir" },
+  { domain: "ruckmaul.ir", name: "راک اند مول", en: "Ruck & Maul" },
   { domain: "rossman.ir", name: "رزمن", en: "Rossmann" },
   { domain: "savetheduck.ir", name: "سیو دِ داک", en: "Save The Duck" },
   { domain: "sbarro.ir", name: "اسبارو", en: "Sbarro" },
