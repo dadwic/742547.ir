@@ -127,6 +127,7 @@ export default [
   { domain: "pidem.ir", name: "پیدم", en: "Pidem" },
   { domain: "pologarage.ir", name: "پولو گاراژ", en: "Pologarage" },
   { domain: "preo.ir", name: "پریو", en: "Preo" },
+  { domain: "plein.ir", name: "فلیپ پلین", en: "Philipp Plein" },
   { domain: "q11.ir" },
   { domain: "recyclr.ir" },
   { domain: "rentgo.ir" },
