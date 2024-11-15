@@ -6,6 +6,12 @@ export default [
   { domain: "axess.ir" },
   { domain: "andbrands.ir" },
   { domain: "armalife.ir", name: "آرما لایف", en: "Armalife" },
+  {
+    domain: "armaniexchange.ir",
+    name: "آرمانی اکسچنج",
+    en: "Armani Exchange",
+    sub: ["armani-exchange.ir"],
+  },
   { domain: "asperox.ir", name: "آسپروکس", en: "Asperox" },
   { domain: "algida.ir", name: "الگیدا", en: "Algida" },
   { domain: "acenayman.ir", name: "Ace Nayman" },
