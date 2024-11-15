@@ -163,6 +163,7 @@ export default [
   { domain: "tommy-hilfiger.ir", name: "تامی هیلفیگر", en: "Tommy Hilfiger" },
   { domain: "tangleteezer.ir", name: "تنگل تیزر", en: "Tangle Teezer" },
   { domain: "thehundreds.ir", name: "دِ هاندردز", en: "The Hundreds" },
+  { domain: "toryburch.ir", name: "توری برچ", en: "Tory Burch" },
   { domain: "trendyol-milla.ir", name: "ترندیول میلا", en: "Trendyolmilla" },
   {
     domain: "toyzzshop.ir",
