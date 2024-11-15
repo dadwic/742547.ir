@@ -94,6 +94,7 @@ export default [
   { domain: "kumpir.ir", name: "کمپیر", en: "Kumpir" },
   { domain: "lescon.ir", name: "لسکون", en: "Lescon" },
   { domain: "lavital.ir", name: "لاویتال", en: "LaVital" },
+  { domain: "laura-ashley.ir", name: "لورا اشلی", en: "Laura Ashley" },
   { domain: "lc-waikiki.ir", name: "ال‌سی وایکیکی", en: "LC Waikiki" },
   { domain: "lesbenjamins.ir", name: "لس بنجامین", en: "Les Benjamins" },
   { domain: "madparfumeur.ir", name: "مد پرفیوم", en: "MAD Parfumeur" },
