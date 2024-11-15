@@ -113,6 +113,7 @@ export default [
   { domain: "minycenter.ir", name: "مینی سنتر", en: "Minycenter" },
   { domain: "mosyo.ir" },
   { domain: "mugler.ir", name: "موگلر", en: "Mugler" },
+  { domain: "mazzucato.ir", name: "مازوکاتو", en: "Mazzucato" },
   { domain: "muix.ir" },
   { domain: "mukbang.ir" },
   { domain: "marketstudios.ir", name: "مارکت استودیوز", en: "Market Studios" },
