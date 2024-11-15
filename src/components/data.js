@@ -38,6 +38,7 @@ export default [
   { domain: "dreamies.ir", name: "دریمیز", en: "Dreamies" },
   { domain: "durumle.ir", name: "دورومله", en: "Dürümle" },
   { domain: "ea7.ir", name: "امپریو آرمانی", en: "Emporio Armani" },
+  { domain: "emporio-armani.ir", name: "امپریو آرمانی", en: "Emporio Armani" },
   { domain: "e-bebek.ir", name: "ای ببک", en: "ebebek" },
   { domain: "evidea.ir", name: "اویدیا", en: "Evidea" },
   { domain: "eqbali.ir" },
