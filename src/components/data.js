@@ -149,6 +149,7 @@ export default [
   { domain: "sanalcadir.ir", name: "سانال چادیر", en: "Sanal Çadır" },
   { domain: "sutas.ir", name: "سوتاش", en: "Sütaş" },
   { domain: "sutore.ir", name: "سوتور", en: "sutore" },
+  { domain: "sportinn.ir", name: "اسپورتین", en: "Sportinn" },
   { domain: "super-step.ir", name: "سوپر استپ", en: "SuperStep" },
   { domain: "super-kids.ir", name: "سوپر کیدز", en: "SuperKids" },
   { domain: "sneakerbaker.ir", name: "اسنیکر بیکر", en: "Sneaker Baker" },
