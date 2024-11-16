@@ -53,6 +53,7 @@ export default [
   { domain: "fashfed.ir", name: "فشفد", en: "FashFed" },
   { domain: "ferrerorocher.ir", name: "فررو روچر", en: "Ferrero Rocher" },
   { domain: "flybe.ir" },
+  { domain: "gurgencler.ir", name: "اپل گورگنچلر", en: "Apple Gürgençler" },
   { domain: "guesswatches.ir", name: "گس واچز", en: "GUESS Watches" },
   { domain: "gardenmix.ir", name: "گاردن میکس", en: "Garden Mix" },
   { domain: "harras.ir", name: "هراس", en: "Harras" },
