@@ -40,6 +40,7 @@ export default [
   { domain: "deepfresh.ir", name: "دیپ فرش", en: "DeepFresh" },
   { domain: "defactofit.ir", name: "دفکتو فیت", en: "DeFactoFIT" },
   { domain: "deichmann.ir", name: "دیچمان", en: "Deichmann" },
+  { domain: "dubaichocolate.ir", name: "دبی چاکلت", en: "Dubai Chocolate" },
   { domain: "doyuyo.ir", name: "دویویو", en: "Doyuyo" },
   { domain: "dreamies.ir", name: "دریمیز", en: "Dreamies" },
   { domain: "durumle.ir", name: "دورومله", en: "Dürümle" },
