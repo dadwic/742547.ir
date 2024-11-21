@@ -25,6 +25,7 @@ export default [
   { domain: "bobletea.ir", name: "بابل تی", en: "Boble Bubble Tea" },
   { domain: "calve.ir", name: "کالو", en: "Calve" },
   { domain: "cornetto.ir", name: "کورنتو", en: "Cornetto" },
+  { domain: "craghoppers.ir", name: "کراگ هاپرز", en: "Craghoppers" },
   { domain: "carboon.ir" },
   { domain: "catit.ir", name: "کتیت", en: "Catit" },
   { domain: "dare2b.ir", name: "Dare 2b" },
