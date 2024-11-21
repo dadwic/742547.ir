@@ -134,7 +134,8 @@ export default [
   { domain: "rentgo.ir" },
   { domain: "ruckmaul.ir", name: "راک اند مول", en: "Ruck & Maul" },
   { domain: "rossman.ir", name: "رزمن", en: "Rossmann" },
-  { domain: "savetheduck.ir", name: "سیو دِ داک", en: "Save The Duck" },
+  { domain: "regata.ir", name: "رگاتا", en: "Regata" },
+  { domain: "savetheduck.ir", name: "سیو داک", en: "Save The Duck" },
   { domain: "sbarro.ir", name: "اسبارو", en: "Sbarro" },
   { domain: "solero.ir", name: "سولرو", en: "Solero" },
   {
