@@ -48,6 +48,7 @@ export default [
   { domain: "emporio-armani.ir", name: "امپریو آرمانی", en: "Emporio Armani" },
   { domain: "e-bebek.ir", name: "ای ببک", en: "ebebek" },
   { domain: "evidea.ir", name: "اویدیا", en: "Evidea" },
+  { domain: "exuma.ir", name: "اگزوما", en: "Exuma" },
   { domain: "eqbali.ir" },
   { domain: "furminator.ir", name: "فورمیناتور", en: "FURminator" },
   { domain: "fitmoda.ir", name: "فیت مدا", en: "Fitmoda" },
