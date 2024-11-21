@@ -29,6 +29,7 @@ export default [
   { domain: "catit.ir", name: "کتیت", en: "Catit" },
   { domain: "dare2b.ir", name: "Dare 2b" },
   { domain: "dimes.ir", name: "دیمس", en: "Dimes" },
+  { domain: "dachstein.ir", name: "دشتین", en: "Dachstein" },
   { domain: "drunkelephant.ir", name: "درانک الفنت", en: "Drunk Elephant" },
   { domain: "dailyperfection.ir", name: "دیلی پرفکشن", en: "Daily Perfection" },
   {
