@@ -5,6 +5,7 @@ export default [
   { domain: "activ8.ir" },
   { domain: "axess.ir" },
   { domain: "andbrands.ir" },
+  { domain: "armonika.ir", name: "آرمونیکا", en: "Armonika" },
   { domain: "armalife.ir", name: "آرما لایف", en: "Armalife" },
   {
     domain: "armaniexchange.ir",
