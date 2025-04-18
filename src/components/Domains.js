@@ -1,6 +1,5 @@
 import React from "react";
 import Head from "next/head";
-import Image from "next/image";
 import { headers } from "next/headers";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid2";
@@ -110,12 +109,9 @@ export default function Domains() {
                     height: { xs: 180, md: 280 },
                   }}
                 >
-                  <Image
+                  <img
                     alt={domain}
                     src={`/images/${domain.split(".")[0]}.jpg`}
-                    layout="fill"
-                    loading="lazy"
-                    objectFit="cover"
                   />
                 </CardMedia>
                 <Divider />
