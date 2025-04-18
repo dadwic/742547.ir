@@ -103,17 +103,14 @@ export default function Domains() {
             <Card>
               <CardActionArea href={`https://${domain}`} target="_blank">
                 <CardMedia
+                  alt={domain}
+                  image={`/images/${domain.split(".")[0]}.jpg`}
                   sx={{
                     position: "relative",
                     filter: "brightness(0.95)",
                     height: { xs: 180, md: 280 },
                   }}
-                >
-                  <img
-                    alt={domain}
-                    src={`/images/${domain.split(".")[0]}.jpg`}
-                  />
-                </CardMedia>
+                />
                 <Divider />
                 <CardContent sx={{ px: 0 }}>
                   <Typography
