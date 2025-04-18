@@ -79,6 +79,7 @@ export default [
   { domain: "ilovefish.ir" },
   { domain: "inter-sport.ir", name: "اینتر اسپورت", en: "Intersport" },
   { domain: "indomie.ir", name: "ایندومی", en: "Indomie" },
+  { domain: "isaora.ir", name: "ایساورا", en: "Isaora" },
   { domain: "isbir.ir", name: "ایش بیر", en: "İşbir" },
   { domain: "inveon.ir" },
   {
