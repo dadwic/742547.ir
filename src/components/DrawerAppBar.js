@@ -51,7 +51,7 @@ function DrawerAppBar() {
             component="h1"
             sx={{ flexGrow: 1, fontWeight: 600 }}
           >
-            ریالیر | خرید از ترکیه
+            ریالیر | مرجع خرید از ترکیه
           </Typography>
           <Button
             variant="outlined"
