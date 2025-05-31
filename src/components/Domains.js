@@ -3,11 +3,9 @@ import Head from "next/head";
 import { headers } from "next/headers";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid2";
-import Divider from "@mui/material/Divider";
-import Container from "@mui/material/Container";
 import Card from "@mui/material/Card";
+import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
-import CardMedia from "@mui/material/CardMedia";
 import CardContent from "@mui/material/CardContent";
 import CardActionArea from "@mui/material/CardActionArea";
 import data from "./data";
@@ -102,16 +100,6 @@ export default function Domains() {
             )}
             <Card>
               <CardActionArea href={`https://${domain}`} target="_blank">
-                <CardMedia
-                  alt={domain}
-                  image={`/images/${domain.split(".")[0]}.jpg`}
-                  sx={{
-                    position: "relative",
-                    filter: "brightness(0.95)",
-                    height: { xs: 180, md: 280 },
-                  }}
-                />
-                <Divider />
                 <CardContent sx={{ px: 0 }}>
                   <Typography
                     dir="ltr"
