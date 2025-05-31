@@ -195,7 +195,6 @@ export default [
   { domain: "unitedbrands.ir", name: "یونایتد برندز", en: "United Brands" },
   { domain: "uspoloassn.ir", name: "یو اس پولو", en: "U.S. Polo Assn." },
   { domain: "v11.ir" },
-  { domain: "vakkorama.ir", name: "واکوراما", en: "Vakkorama" },
   {
     domain: "vatancomputer.ir",
     name: "وطن کامپیوتر",
